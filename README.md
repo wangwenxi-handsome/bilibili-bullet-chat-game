@@ -14,12 +14,12 @@
 4.  在直播间共享游戏屏幕，等待玩家加入
 
 ## 直播效果
-### 第一版游戏
+### 游戏1
 - 弹幕输入“加入游戏”即可加入游戏
 - 弹幕输入“wsad”可移动位置
 <div align=center><img src="https://github.com/wangwenxi-handsome/bilibili-bullet-chat-game/blob/main/show.jpg"/></div>
 
-### 第二版游戏
+### 游戏2
 - 弹幕输入“加入游戏”即可加入游戏
 - 弹幕输入“rgb”可更改颜色
 
