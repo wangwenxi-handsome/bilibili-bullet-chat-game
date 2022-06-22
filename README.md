@@ -17,6 +17,7 @@
 ### 第一版游戏
 - 弹幕输入“加入游戏”即可加入游戏
 - 弹幕输入“wsad”可移动位置
+<div align=center><img src="https://github.com/wangwenxi-handsome/bilibili-bullet-chat-game/blob/main/show.jpg"/></div>
 
 ### 第二版游戏
 - 弹幕输入“加入游戏”即可加入游戏
